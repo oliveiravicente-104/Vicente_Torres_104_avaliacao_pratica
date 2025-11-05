@@ -1,0 +1,14 @@
+body {
+  background-color: #ffffff;
+  font-family: 'Helvetica', sans-serif;
+  text-align: center;
+}
+
+.galeria {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+img {
+  border-radius: 10px;}
